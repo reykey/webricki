@@ -12,5 +12,8 @@
 */
 
 Route::get('/', 'ControllerIsi@index');
-Route::get('project', 'ControllerIsi@project');
-Route::get('project/{id_project}', 'ControllerCatalog@index');
+Route::get('/portfolio-brixnara','ControllerIsi@brixnara');
+Route::get('/portfolio-ninaxsatya','ControllerIsi@ninaxsatya');
+Route::get('/portfolio-freyshaxnanda','ControllerIsi@freyshaxnanda');
+// Route::get('project', 'ControllerIsi@project');
+// Route::get('project/{id_project}', 'ControllerCatalog@index');
