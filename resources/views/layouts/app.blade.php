@@ -103,9 +103,9 @@
                     </div>
                 </div>
                 <ul class="slides">
-                <li style="background-image: url({{URL::to('/')}}/images/RIP_3.jpg);" data-stellar-background-ratio="0.5"></li>
-                <li style="background-image: url({{URL::to('/')}}/images/RIP_6.jpg);" data-stellar-background-ratio="0.5"></li>
-                <li style="background-image: url({{URL::to('/')}}/images/RIP_7.jpg);" data-stellar-background-ratio="0.5"></li>
+                <li style="background-image: url({{URL::to('/')}}/images/RIP_3.JPG);" data-stellar-background-ratio="0.5"></li>
+                <li style="background-image: url({{URL::to('/')}}/images/RIP_6.JPG);" data-stellar-background-ratio="0.5"></li>
+                <li style="background-image: url({{URL::to('/')}}/images/RIP_7.JPG);" data-stellar-background-ratio="0.5"></li>
                 </ul>
 
             </div>
@@ -122,7 +122,7 @@
                 <div class="row">
                     <div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
                         <div class="img-grid">
-                            <img src="{{URL::to('/')}}/images/images_brixnara/RIP_13.jpg" alt="Free HTML5 template by FREEHTML5.co" class="img-responsive">
+                            <img src="{{URL::to('/')}}/images/images_brixnara/RIP_13.JPG" alt="Free HTML5 template by FREEHTML5.co" class="img-responsive">
                             <a href="{{URL::to('/portfolio-brixnara')}}" class="transition">
                                 <div>
                                     <span class="fh5co-meta">17 images</span>
@@ -133,7 +133,7 @@
                     </div>
                     <div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
                         <div class="img-grid">
-                            <img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP10.jpg" alt="Free HTML5 template by FREEHTML5.co" class="img-responsive">
+                            <img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP10.JPG" alt="Free HTML5 template by FREEHTML5.co" class="img-responsive">
                             <a href="{{URL::to('/portfolio-ninaxsatya')}}" class="transition">
                                 <div>
                                     <span class="fh5co-meta">17 images</span>
@@ -144,7 +144,7 @@
                     </div>
                     <div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
                         <div class="img-grid">
-                            <img src="{{URL::to('/')}}/images/images_freyshaxnanda/RIP_7.jpg" alt="Free HTML5 template by FREEHTML5.co" class="img-responsive">
+                            <img src="{{URL::to('/')}}/images/images_freyshaxnanda/RIP_7.JPG" alt="Free HTML5 template by FREEHTML5.co" class="img-responsive">
                             <a href="{{URL::to('/portfolio-freyshaxnanda')}}" class="transition">
                                 <div>
                                     <span class="fh5co-meta">9 images</span>
@@ -204,7 +204,7 @@ Please don't hesitate to contact me for more details</p>
             </div>
         </div>
 
-        <div id="fh5co-testimony" style="background-image: url({{URL::to('/')}}/images/slide_3.jpg);" data-stellar-background-ratio="0.5">
+        <div id="fh5co-testimony" style="background-image: url({{URL::to('/')}}/images/slide_3.JPG);" data-stellar-background-ratio="0.5">
             <div class="fh5co-overlay"></div>
             <div class="container">
                 <div class="row">

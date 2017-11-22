@@ -12,6 +12,7 @@
 					<div class="container">
 						<div class="row text-center">
 							<h1 class="animate-box">Brita &amp; Nara PreWedding</h1>
+							<h2 class="animate-box">Courtesy of Redwhite Photo</h2>
 							<div class="fh5co-go animate-box">
 								<a href="#" class="js-fh5co-next">
 									View Images

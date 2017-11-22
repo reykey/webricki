@@ -12,6 +12,7 @@
 					<div class="container">
 						<div class="row text-center">
 							<h1 class="animate-box">Nina &amp; Satya Engagement</h1>
+							<h2 class="animate-box">Courtesy of Kanva Pictura</h2>
 							<div class="fh5co-go animate-box">
 								<a href="#" class="js-fh5co-next">
 									View Images
@@ -40,69 +41,69 @@
 
 				<div class="row">
 					<figure class="animate-box">
-						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP1.jpg" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
+						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP1.JPG" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
 					</figure>
 					<figure class="animate-box">
-						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP2.jpg" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
+						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP2.JPG" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
 					</figure>
 					<figure class="animate-box">
-						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP3.jpg" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
+						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP3.JPG" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
 					</figure>
 					<figure class="animate-box">
-						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP4.jpg" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
+						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP4.JPG" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
 					</figure>
 					<figure class="animate-box">
-						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP5.jpg" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
+						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP5.JPG" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
 					</figure>
 					<figure class="animate-box">
-						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP6.jpg" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
+						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP6.JPG" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
 					</figure>
 					<figure class="animate-box">
-						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP7.jpg" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
+						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP7.JPG" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
 					</figure>
 					<figure class="animate-box">
-						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP8.jpg" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
+						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP8.JPG" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
 					</figure>
 					<figure class="animate-box">
-						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP9.jpg" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
+						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP9.JPG" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
 					</figure>
 					<figure class="animate-box">
-						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP10.jpg" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
+						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP10.JPG" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
 					</figure>
 					<figure class="animate-box">
-						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP11.jpg" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
+						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP11.JPG" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
 					</figure>
 					<figure class="animate-box">
-						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP12.jpg" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
+						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP12.JPG" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
 					</figure>
 					<figure class="animate-box">
-						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP13.jpg" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
+						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP13.JPG" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
 					</figure>
 					<figure class="animate-box">
-						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP14.jpg" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
+						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP14.JPG" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
 					</figure>
 					<figure class="animate-box">
-						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP15.jpg" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
+						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP15.JPG" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
 					</figure>
 					<figure class="animate-box">
-						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP16.jpg" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
+						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP16.JPG" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
 					</figure>
 					<figure class="animate-box">
-						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP17.jpg" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
+						<img src="{{URL::to('/')}}/images/images_ninaxsatya/RIP17.JPG" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive center-block">
 					</figure>
 					
 
 					<!-- <figure class="animate-box">
-						<img src="{{URL::to('/')}}/images/slide_2.jpg" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive">
+						<img src="{{URL::to('/')}}/images/slide_2.JPG" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive">
 					</figure>
 					<figure class="animate-box">
-						<img src="{{URL::to('/')}}/images/slide_1.jpg" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive">
+						<img src="{{URL::to('/')}}/images/slide_1.JPG" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive">
 					</figure>
 					<figure class="animate-box">
-						<img src="{{URL::to('/')}}/images/pic_13.jpg" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive">
+						<img src="{{URL::to('/')}}/images/pic_13.JPG" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive">
 					</figure>
 					<figure class="animate-box">
-						<img src="{{URL::to('/')}}/images/pic_14.jpg" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive">
+						<img src="{{URL::to('/')}}/images/pic_14.JPG" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive">
 					</figure> -->
 				</div>
 	
